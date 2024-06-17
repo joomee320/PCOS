@@ -1,5 +1,3 @@
-# PCOS
-
 ## Developing Predictive Models for Diagnosing Polycystic Ovary Syndrome (PCOS)
 
 ### Introduction
